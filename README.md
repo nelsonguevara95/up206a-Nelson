@@ -19,4 +19,4 @@ I have a few preliminary project ideas that vary in urban planning topics:
 2. Meauring connectivity throughout various communities in Southern California:
   - highlight communities that have better access and better means of transportation
   - using GIS data to develop a framework of Southern California's transportation infrastructure in different communities (complete streets, train lines, bus lines, freeways, etc.)
-3. Assess the impact of urban development on the environment using GIS maps and data
+3. Assess the impact of urban development on the environment using GIS maps and data.
