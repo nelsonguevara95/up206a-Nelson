@@ -17,7 +17,7 @@
 
 - [Repo URL for 2019](https://github.com/nelsonguevara95/up206a-Nelson/blob/main/Potential%20Data/Inglewood%20Demographics%20Data_2019.xlsx)
 
--[Repo URL for 2010](https://github.com/nelsonguevara95/up206a-Nelson/blob/main/Potential%20Data/Inglewood%20Demographics%20Data_2010.xlsx)
+- [Repo URL for 2010](https://github.com/nelsonguevara95/up206a-Nelson/blob/main/Potential%20Data/Inglewood%20Demographics%20Data_2010.xlsx)
 
 ### Comparative Property Values: Zillow's Home Value Index
 
