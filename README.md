@@ -15,8 +15,6 @@ In my free time I am most likely talking about sports, reading about sports, or 
 
 I have a few preliminary project ideas that vary in urban planning topics:
 
-1. Using GIS to highlight socioeconomic status of recent vast redevelopment areas (such as Inglewood) and what that means for underrepresented communities.
-2. Meauring connectivity throughout various communities in Southern California:
-  - highlight communities that have better access and better means of transportation
-  - using GIS data to develop a framework of Southern California's transportation infrastructure in different communities (complete streets, train lines, bus lines, freeways, etc.)
+1. Using GIS to highlight socioeconomic status, property value trends, and recent vast redevelopment areas (such as Inglewood) and what that means for underrepresented communities.
+2. Highlighting the means of transportation that people usually use and how it may relate to the lack of public transportation infrastructure and services throughout various communities in Southern California.
 3. Assess the impact of urban development on the environment using GIS maps and data.
